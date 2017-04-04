@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emr>
+    <patient_info id="0000-44444">
+        <name>Monica Latte</name>
+        <address1>4444 Coffee Ave</address1>
+        <address2>Chocolate, California</address2>
+        <dob>04/04/1950</dob>
+        <provider>Carl Savem</provider>
+        <patient_order>
+            <type>RX</type>
+            <patientID>0000-44444</patientID>
+            <patientName>Monica Latte</patientName>
+            <medicine>Lisinopril</medicine>
+            <dosage>25 mg</dosage>
+            <refillsRemaining>4</refillsRemaining>
+            <lastRefill>03/12/2017</lastRefill>
+        </patient_order>
+        <patient_order>
+            <type>RX</type>
+            <patientID>0000-44444</patientID>
+            <patientName>Monica Latte</patientName>
+            <medicine>Hydrocodone</medicine>
+            <dosage>100 mg</dosage>
+            <refillsRemaining>313</refillsRemaining>
+            <lastRefill>03/12/2017</lastRefill>
+        </patient_order>
+        <patient_order>
+            <type>RX</type>
+            <patientID>0000-44444</patientID>
+            <patientName>Monica Latte</patientName>
+            <medicine>Amoxicillin</medicine>
+            <dosage>50 mg</dosage>
+            <refillsRemaining>0</refillsRemaining>
+            <lastRefill>4/1/2014</lastRefill>
+        </patient_order>
+    </patient_info>
+    <patient_info id="1234-12345">
+        <name>Ron Burgandy</name>
+        <address1>#1 Big Deal Ave</address1>
+        <address2>San Diego, California</address2>
+        <dob>1/9/1945</dob>
+        <provider>Dr. Sanjay Gupta</provider>
+        <patient_order>
+            <type>RX</type>
+            <patientID>1234-12345</patientID>
+            <patientName>Ron Burgandy</patientName>
+            <medicine>HCTZ</medicine>
+            <dosage>25 mg</dosage>
+            <refillsRemaining>925</refillsRemaining>
+            <lastRefill>10/13/2015</lastRefill>
+        </patient_order>
+        <patient_order>
+            <type>RX</type>
+            <patientID>1234-12345</patientID>
+            <patientName>Ron Burgandy</patientName>
+            <medicine>Prolosec</medicine>
+            <dosage>75 mg</dosage>
+            <refillsRemaining>311</refillsRemaining>
+            <lastRefill>10/13/2015</lastRefill>
+        </patient_order>
+    </patient_info>
+    <patient_info id="5555-55555">
+        <name>Harry Potter</name>
+        <address1>4 Privet Dr</address1>
+        <address2>Little Whinging, England</address2>
+        <dob>07/31/1996</dob>
+        <provider>Madam Pomfrey</provider>
+        <patient_order>
+            <type>RX</type>
+            <patientID>5555-55555</patientID>
+            <patientName>Harry Potter</patientName>
+            <medicine>Zocor</medicine>
+            <dosage>100 mg</dosage>
+            <refillsRemaining>699651</refillsRemaining>
+            <lastRefill>03/12/2017</lastRefill>
+        </patient_order>
+    </patient_info>
+</emr>
