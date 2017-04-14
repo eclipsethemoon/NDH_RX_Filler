@@ -11,8 +11,7 @@
         android:id="@+id/userWNum"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/enter_w"
-        android:hint="Enter W #"
+        android:hint="Enter W # 1234567"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 

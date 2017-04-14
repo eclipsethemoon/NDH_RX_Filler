@@ -2,5 +2,11 @@
     <string name="app_name">NDH_RX_Filler</string>
     <string name="enter_w">Enter W #</string>
     <string name="login">Login</string>
+    <string name="next">Next Patient</string>
+    <string name="patient">Patient</string>
+    <string name="id">ID</string>
+    <string name="rx">RX</string>
+    <string name="dosage">Dosage</string>
+    <string name="refill">Refill remaining</string>
 
 </resources>

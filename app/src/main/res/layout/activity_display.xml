@@ -6,30 +6,24 @@
     android:layout_height="match_parent"
     tools:context="com.selu.neilhoang.ndh_rx_filler.DisplayActivity">
 
+
     <Button
-        android:id="@+id/button"
+        android:id="@+id/nextBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:text="Button" />
-    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent" >
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/next" />
 
-        <RelativeLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" >
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nextBtn"
+        android:orientation="vertical">
 
-            <TextView
-                android:id="@+id/text"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:layout_centerVertical="true" />
-        </RelativeLayout>
 
-    </ScrollView>
-
+   </ListView>
 </RelativeLayout>
