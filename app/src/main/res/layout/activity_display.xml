@@ -7,23 +7,4 @@
     tools:context="com.selu.neilhoang.ndh_rx_filler.DisplayActivity">
 
 
-    <Button
-        android:id="@+id/nextBtn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
-        android:background="@color/colorPrimaryDark"
-        android:text="@string/next" />
-
-    <ListView
-        android:id="@+id/list"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/nextBtn"
-        android:orientation="vertical">
-
-
-   </ListView>
 </RelativeLayout>
